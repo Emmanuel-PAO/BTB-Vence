@@ -4,7 +4,7 @@ window.BTB_CONTACTS = {
   "declaration": "https://docs.google.com/forms/d/e/1FAIpQLSe0S5oiRl-RzEjHgTVcHnF5vHt5iSaL6LFXvAYZYeP5IcyQ0Q/viewform?usp=header",
   "site": "https://www.btbclub.fr/club-vence/",
   "invitation": "https://www.btbclub.fr/nous-rejoindre/",
-  "instagram": "https://www.instagram.com/businesstobreakfastvence",
+  "instagram": "https://www.instagram.com/btb_vence/",
   "facebook": "https://www.facebook.com/btbvence",
   "linkedin": "https://www.linkedin.com/company/business-to-breakfast-vence/"
 };
